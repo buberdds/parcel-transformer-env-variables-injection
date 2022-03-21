@@ -1,0 +1,26 @@
+{
+  "name": "parcel-transformer-env-variables-injection",
+  "version": "0.1.0",
+  "description": "Parcel plugin that injects env varaibles into a file",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buberdds/parcel-transformer-env-variables-injection.git"
+  },
+  "keywords": [
+    "parcel"
+  ],
+  "author": "buberdds",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/buberdds/parcel-transformer-env-variables-injection/issues"
+  },
+  "homepage": "https://github.com/buberdds/parcel-transformer-env-variables-injection#readme",
+  "engines": {
+    "parcel": "2.x"
+  },
+  "devDependencies": {
+    "@parcel/plugin": "2.3.2"
+  }
+}
