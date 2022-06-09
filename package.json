@@ -9,7 +9,10 @@
     "url": "git+https://github.com/buberdds/parcel-transformer-env-variables-injection.git"
   },
   "keywords": [
-    "parcel"
+    "parcel",
+    "transformer",
+    "env",
+    "variables"
   ],
   "author": "buberdds",
   "license": "MIT",
